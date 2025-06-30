@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-// container 
+// container
+//fullscreen covers with colors
 void main() {
   runApp(const MyApp());
 }
